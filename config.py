@@ -5,8 +5,6 @@ import telepot
 from dotenv import load_dotenv
 from address import *
 
-load_dotenv()
-
 TONCENTER_API = os.getenv('TONCENTER_API')
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 ROYALTY_ADDRESS = detect_address(os.getenv('ROYALTY_ADDRESS'))['bounceable']['b64url']
