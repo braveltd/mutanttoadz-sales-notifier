@@ -1,3 +1,6 @@
+мальчики что-то делают пон
+а если что есть -> https://t.me/bravestd
+
 # TON NFT Resales Notificator
 :gem: Bot notifying about resales of any TON NFT collection
 
